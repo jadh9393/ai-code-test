@@ -1,0 +1,5 @@
+# Agent operational files — do not commit
+CLAUDE.md
+TASK.md
+REVIEW.json
+node_modules/

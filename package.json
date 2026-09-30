@@ -1,0 +1,21 @@
+{
+  "name": "job-proj-105-1790781423397",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jadh9393/ai-code-test/issues"
+  },
+  "homepage": "https://github.com/jadh9393/ai-code-test#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
